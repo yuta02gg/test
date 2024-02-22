@@ -1,0 +1,139 @@
+.logo img{
+    width: 200px;
+    height: 70px;
+}
+
+header{
+top: 0x ;
+left: 0px ;
+width: 99% ;
+height: 40px ;
+background-color:black;
+margin: 0 auto;
+}
+
+header ul {
+float:left;
+line-height:10px;
+padding-left: 10px;
+}
+
+header ul li{
+float: left ;
+list-style: none ;
+padding-right:50px ;
+margin-left: 20px;
+margin-bottom :5px;
+color: white ;
+font-size: 18px ;
+}
+
+.left{
+    float: left;
+    width: 70%;
+}
+
+.right{
+    float: right;
+    width: 30%;
+}
+
+h1{
+    border-left: 5px solid black;
+    border-bottom: 2px solid black;
+    margin-top: auto;
+    padding-left: 10px;
+    width:97%;
+}
+
+h4{
+    font-family: serif;
+    margin: 7px;
+}
+
+h3{
+    font-family: serif;
+    margin: 2px;
+}
+
+.b{
+    font-family: serif;
+    border-bottom: 3px solid gray;
+}
+
+.a{
+    margin-top: 25px;
+}
+
+.kiji,.link,.kateg{
+    list-style: none;
+    margin-left: 20px;
+    margin-top: 20px;
+    }
+    
+footer{
+    clear: left;
+    width: 99%;
+    height: 60px;
+    color:white;
+    background-color: black;
+    text-align: center;
+    line-height: 60px;
+    margin: 0 auto;
+    }
+body {
+    font-family: "Hiragino Kaku Gothic ProN", "メイリオ", sans-serif;
+}
+
+h2 {
+    border-left: 5px red solid;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    margin-left: 20px;
+    width: 500px;
+    font-size: 20px;
+}
+    
+form {
+    margin:10px;
+    padding: 10px;
+    background-color: #fbfbfb;
+    border: 3px #ebebeb solid;
+    border-radius: 10px;
+    width: 95%;
+}
+
+form div {
+    padding: 15px;
+}
+
+.text,
+.textarea{
+    border: 1px solid #dfdfdf;
+    padding: 5px;
+    background: #fff;
+}
+    
+.submit {
+    border: 1px solid lightgray;
+    padding: 4px 10px;
+    color: white;
+    background-color: #bfbfbf;
+    border-radius: 5px;
+    border-bottom: 2px solid gray;
+}
+
+.titles{
+    margin:10px;
+    padding: 10px;
+    background-color: #fbfbfb;
+    border: 3px #ebebeb solid;
+    border-radius: 10px;
+    width: 95%;
+}
+
+h3{
+    border-bottom: 2px solid  #bfbfbf;
+}
+    
